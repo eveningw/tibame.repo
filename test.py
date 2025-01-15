@@ -1,0 +1,1 @@
+print('python好簡單喔')
