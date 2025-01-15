@@ -1,1 +1,1 @@
-print('python好簡單喔')
+print('python測試')
